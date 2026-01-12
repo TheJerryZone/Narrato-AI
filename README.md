@@ -86,11 +86,18 @@ npx expo start
 
 ---
 
+## **Sample Output**
+
+1. A young city photographer gains spider-like powers and protects the streets while hiding his double life.
+Output : https://github.com/TheJerryZone/Narrato-AI/blob/main/Webbed_in_shadows.pdf
+
+2. A caped hero with unmatched strength and speed defends the city while blending into normal life.
+Output : https://github.com/TheJerryZone/Narrato-AI/blob/main/Guardian_by_Day%2C_Savior_by_Night.pdf
+
 ## 📊 Additional Resources
 
 * **PPT Presentation:**
   [Narrato Project PPT][(https://github.com/<your-username>/Narrato/blob/main/resources/Narrato_Presentation.pptx)](https://github.com/TheJerryZone/Narrato-AI/blob/main/Narrato_PPT.pdf)
-
 
 ---
 
