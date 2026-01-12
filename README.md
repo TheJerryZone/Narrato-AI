@@ -97,7 +97,7 @@ Output : https://github.com/TheJerryZone/Narrato-AI/blob/main/Guardian_by_Day%2C
 ## 📊 Additional Resources
 
 * **PPT Presentation:**
-  [Narrato Project PPT][(https://github.com/<your-username>/Narrato/blob/main/resources/Narrato_Presentation.pptx)](https://github.com/TheJerryZone/Narrato-AI/blob/main/Narrato_PPT.pdf)
+  [Narrato PPT][(https://github.com/<your-username>/Narrato/blob/main/resources/Narrato_Presentation.pptx)] https://github.com/TheJerryZone/Narrato-AI/blob/main/Narrato_PPT.pdf
 
 ---
 
