@@ -82,7 +82,7 @@ npx expo start
 
 3. Preview the generated comic.
 
-4. Save/export as **PDF** or **image gallery**.
+4. Save/export as **PDF**.
 
 ---
 
